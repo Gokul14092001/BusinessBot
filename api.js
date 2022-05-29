@@ -12,7 +12,7 @@ client.connect();
 
 app.get('/', (req, res) => {
     
-    res.send("sample");
+    res.send("buisnessonbot API Task-1 HomePage");
 })
 
 app.get('/api/branch', (req, res) => {
